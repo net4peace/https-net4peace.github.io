@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Net4Peace - Page personnelle</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header img {
+            width: 100px;
+            height: auto;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .content-section {
+            margin-bottom: 2rem;
+        }
+        .social-links a {
+            margin-right: 1rem;
+            color: #333;
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+        .news-item, .article-item, .training-item {
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="""C:\Users\SALISSOU\Desktop\Logo Net4Peace.png""" alt="Net4Peace Logo">
+        <h1>Net4Peace</h1>
+    </header>
+    <div class="container">
+        <section class="content-section">
+            <h2>À propos de moi</h2>
+            <p>Je suis un activiste passionné, bloggeur, leader et formateur. J'ai consacré ma vie à créer des projets et des initiatives visant à améliorer la participation des jeunes dans divers domaines, notamment la vie associative, l'agenda jeunesse, paix et sécurité, la médiation, le leadership féminin et l'utilisation de la technologie pour la consolidation de la paix.</p>
+        </section>
+        <section class="content-section">
+            <h2>Mes Centres d'Intérêt</h2>
+            <ul>
+                <li>Rédaction d'articles sur la jeunesse</li>
+                <li>Promotion de la paix et de la sécurité</li>
+                <li>Médiation et résolution de conflits</li>
+                <li>Leadership et développement personnel</li>
+                <li>Utilisation de la technologie pour la consolidation de la paix</li>
+            </ul>
+        </section>
+        <section class="content-section">
+            <h2>Projets et Réalisations</h2>
+            <p>En tant qu'activiste, j'ai lancé plusieurs initiatives pour encourager les jeunes à s'engager activement dans leur communauté. Mon objectif est de fournir aux jeunes les outils et les ressources nécessaires pour devenir des leaders efficaces et des acteurs du changement.</p>
+        </section>
+        <section class="content-section">
+            <h2>Actualités</h2>
+            <div class="news-item">
+                <h3>Agenda Jeunesse, Paix et Sécurité</h3>
+                <p>
+L'agenda Jeunesse, Paix et Sécurité (JPS) est une initiative internationale visant à reconnaître et à renforcer le rôle des jeunes dans la prévention des conflits, la consolidation de la paix et la sécurité. Adopté par le Conseil de sécurité des Nations Unies à travers la résolution 2250 en décembre 2015, cet agenda souligne l'importance d'inclure les jeunes dans les processus de prise de décision en matière de paix et de sécurité.
+
+Voici les cinq (5) piliers de l'agenda JPS :
+
+1. Participation : Encourager et assurer une participation significative des jeunes dans tous les niveaux de prise de décision, particulièrement en ce qui concerne les initiatives de paix et de sécurité.
+
+2. Protection : Promouvoir et garantir la protection des jeunes contre toutes formes de violence, notamment pendant les conflits armés, et assurer leur sécurité dans les contextes de paix et de post-conflit.
+
+3. Prévention : Mettre en avant le rôle des jeunes dans la prévention des conflits et la promotion d'une culture de la paix à travers l'éducation, la sensibilisation et la promotion de l'inclusion sociale et économique.
+
+4. Partenariats : Encourager la collaboration entre les jeunes, les gouvernements, les organisations internationales, les ONG et autres acteurs concernés pour mettre en œuvre et promouvoir l'agenda JPS.
+
+5. Désengagement et réintégration : Faciliter le désengagement et la réintégration des jeunes associés à des groupes armés, ainsi que leur réhabilitation dans la société.
+
+Cet agenda cherche à transformer la perception des jeunes, les considérant non pas comme des victimes ou des fauteurs de troubles, mais comme des agents de changement et des partenaires essentiels dans la construction d'une paix durable. ...</p>
+            </div>
+            <div class="news-item">
+                <h3>Leadership féminin</h3>
+                <p>Le leadership féminin désigne la capacité des femmes à diriger, influencer et prendre des décisions au sein des organisations, des communautés et des sociétés. Il met en avant les compétences, perspectives et approches uniques des femmes, favorisant ainsi la diversité et l'inclusion dans les processus décisionnels. Ce type de leadership est crucial pour l'égalité des sexes, la justice sociale et le développement durable. Promouvoir le leadership féminin implique de surmonter les obstacles socio-culturels, économiques et institutionnels qui limitent l'accès des femmes aux positions de pouvoir et de leur fournir les ressources, opportunités et soutiens nécessaires pour s'épanouir en tant que leaders. ...</p>
+            </div>
+        </section>
+        <section class="content-section">
+            <h2>Articles</h2>
+            <div class="article-item">
+                <h3>L’anglais, le français et les langues nationales en peril dans le secteur de la paix</h3>
+                <p>Dans le domaine de la paix et de la diplomatie, la langue joue un rôle crucial dans la communication et la coordination entre les nations et les organisations internationales. Ces dernières décennies, l’anglais et  le français ont émergé comme la  lingua franca incontestée de ce domaine, démontrant une véritable hégémonie linguistique. ...</p>
+            </div>
+            <div class="article-item">
+                <h3>Unis par l'Histoire : Pourquoi le Conflit entre le Niger et le Bénin ne Profite à Personne sauf à l'Occident ?</h3>
+                <p>En cette ère où la solidarité et la coopération internationale sont plus que jamais nécessaires, il est crucial de reconnaître les liens profonds qui unissent les nations voisines. Le conflit entre le Niger et le Bénin ne fait que souligner l'importance de la fraternité et de la collaboration entre ces deux pays, plutôt que de les diviser. Au cœur de cette réalité, il est clair que le véritable bénéficiaire de ce conflit est l'Occident, tandis que les deux nations voisines en souffrent. ...</p>
+            </div>
+        </section>
+        <section class="content-section">
+            <h2>Formation</h2>
+            <div class="training-item">
+                <h3>Leadership féminin</h3>
+                <p>Cette section nous aide à comprendre le leadership féminin, la maculinité positive et l'égalité des sexes. ...</p>
+            </div>
+            <div class="training-item">
+                <h3>Tech pour la paix</h3>
+                <p>Cette section vous permets d'apprendre des mécanismes pour utiliser la technologie, notamment les réseaux sociaux pour le maintien de la paix. ...</p>
+            </div>
+        </section>
+        <section class="content-section">
+            <h2>Contact</h2>
+            <p>Vous pouvez nous suivre sur les réseaux sociaux pour rester informé de nos dernières activités et projets :</p>
+            <div class="social-links">
+                <a href="https://www.facebook.com/salissoumamanesmk">Facebook</a>
+                <a href="https://www.instagram.com/salissoumamanesmk/">Instagram</a>
+                <a href="https://x.com/salissoumamane_">X</a>
+                <a href="https://www.linkedin.com/in/salissou-mamane-elh-koudoub%C3%A9-a5683b15b/">LinkedIn</a>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
